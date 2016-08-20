@@ -1,0 +1,7 @@
+include *.txt
+include logo/*.svg
+include logo/*.sh
+include examples/*.py
+include examples/*.ogg
+include extra/*.py
+include extra/*.txt
