@@ -11,8 +11,7 @@ License
 =======
 
 DotBox is free software under the terms of the GNU General Public
-License version 3 (or any later version). The author of DotBox is
-Niels Serup, contactable at ns@metanohi.org. This is version 0.1.0 of
+License version 3 (or any later version). This is version 0.1.0 of
 the program.
 
 All libraries used by DotBox are GPL-compatible. Any data used by the
@@ -22,19 +21,7 @@ examples included in this package is as free as DotBox itself.
 Installing
 ==========
 
-Way #1
-------
-Just run this (requires that you have python-setuptools installed)::
-
-  $ sudo easy_install dotbox
-
-Way #2
-------
-Get the newest version of DotBox at
-http://metanohi.org/projects/dotbox/ or at
-http://pypi.python.org/pypi/dotbox
-
-Extract the downloaded file and run this in a terminal::
+Run this in a terminal::
 
   # python setup.py install
 
