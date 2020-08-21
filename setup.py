@@ -5,7 +5,7 @@ import tempfile
 
 selfdir = os.path.dirname(os.path.realpath(__file__))
 
-readme = open('README.txt').read()
+readme = open('README.rst').read()
 conf = dict(
     name='dotbox',
     version='0.1.0',
